@@ -18,6 +18,9 @@
 	            <input type="submit" name="add" value="Registrer">
 	        </form>
 	    </div>
+		<p>
+			hei
+		</p>
 	    <br>
 	    <div>
 	        <h1>Oversikt over saker</h1>
